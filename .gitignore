@@ -1,0 +1,8 @@
+# Compressed Files
+*.zip             
+*.tar.*        
+*.rar            
+*.7z
+
+# Test file
+test*.py
